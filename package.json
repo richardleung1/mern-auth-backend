@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/richardleung1/mern-auth-backend.git"
   },
-  "author": "Rome Bell",
+  "author": "Richard Leung",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/richardleung1/mern-auth-backend/issues"
